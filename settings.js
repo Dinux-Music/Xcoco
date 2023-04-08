@@ -14,20 +14,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94764497078'] //ur owner number
-global.ownername = "Sandaru Nethsara" //ur owner name
+global.owner = ['94717845122'] //ur owner number
+global.ownername = "Dinuka࿐" //ur owner name
 global.ytname = "YT: Sandaru Yt" //ur yt chanel name
 global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94764497078" //ur number
-global.premium = ['94764497078'] //ur premium number
-global.botname = 'Xcoco' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By Xcoco" //ur sticker watermark packname
-global.author = "Xcoco" //ur sticker watermark author
-global.wm = "XCOCO BOT INC" //ur watermark
+global.ownernomer = "94717845122" //ur number
+global.premium = ['94717845122'] //ur premium number
+global.botname = 'ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ' //ur bot name
+global.themeemoji = "🚀" //ur theme emoji
+global.packname = "ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ" //ur sticker watermark packname
+global.author = "ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ" //ur sticker watermark author
+global.wm = "ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -51,10 +51,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync(".https://i.ibb.co/jThYdmk/20230405-081007.jpg") //ur thumb pic
+global.log0 = fs.readFileSync(".https://i.ibb.co/jThYdmk/20230405-081007.jpg //ur logo pic
+global.err4r = fs.readFileSync(".https://i.ibb.co/jThYdmk/20230405-081007.jpg //ur error pic
+global.thumb = fs.readFileSync(".https://i.ibb.co/jThYdmk/20230405-081007.jpg //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
